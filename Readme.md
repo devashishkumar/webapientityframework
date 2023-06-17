@@ -8,7 +8,7 @@
 | Microsoft.EntityFrameworkCore.SqlServer |
 | Microsoft.EntityFrameworkCore.Tools |
 
-## Entity Framework Models to Db Table Commands
+## Entity Framework Models to DB Table Commands
 
 | Commands  |
 | ------------- |
