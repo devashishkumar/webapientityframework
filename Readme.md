@@ -2,15 +2,15 @@
 
 ## Libraries Used
 
-| Libraries |
-| ------ | ------ | ------ | ------ |
+| Libraries  |
+| ------------- |
 | Microsoft.EntityFrameworkCore.InMemory |
 | Microsoft.EntityFrameworkCore.SqlServer |
 | Microsoft.EntityFrameworkCore.Tools |
 
 ## Entity Framework Models to Db Table Commands
 
-| Commands |
-| ------ | ------ | ------ | ------ |
+| Commands  |
+| ------------- |
 | Add-Migration "Initial Migration" |
 | Update-Database |
